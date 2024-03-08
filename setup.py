@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from typing import List
 
 PROJECT_NAME = "American Sign Detection" 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 DESCRIPTION = "This is modular coding project used for Sign Detection  "
 AUTHOR_NAME = "Pramod Khavare"
 AUTHOR_EMIL = "pramodkhavare2000@gmail.com"
